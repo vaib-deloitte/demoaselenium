@@ -1,0 +1,78 @@
+Mini Assignment- Selenium 
+•	Flipkart logo  
+                             RelativeXpath: //*[@id="container"]/div/div[1]/div[1]/div[2]/div[1]/div/a[1]/img 
+CSS Selector: #container > div > div._1kfTjk > div > div._2Xfa2_ > div._3_C9Hx > div > a:nth-child(1) > img 
+ 
+Locator: class="_2xm1JU" 
+ 
+                                
+ 
+•	Login   
+                            RelativeXpath: //*[@id="container"]/div/div[1]/div[1]/div[2]/div[3]/div/div/div/a 
+CSS Selector: #container > div > div._1kfTjk > div > div._2Xfa2_ > div.go_DOp._2errNR > div > div > div > a 
+ 
+Locator: class="_1_3w1N" 
+ 
+ 
+ 
+•	Cart  
+           RelativeXpath: //*[@id="container"]/div/div[2]/div/div/div[8]/a/div[1]/div/img 
+CSS Selector: #container > div > div._1kfTjk > div._1rH5Jn > div._2Xfa2_ > div:nth-child(5) > div > div > a > span 
+ 
+Locator: class="_3SkBxJ" 
+ 
+ 
+•	Travel : 
+           RelativeXpath: //*[@id="container"]/div/div[2]/div/div/div[8]/a/div[1]/div/img 
+CSS Selector: #container > div > div._331-kn._2tvxW > div > div > div:nth-child(8) > a > div._1mkliO > div > img 
+ 
+Locator: class="xtXmba" 
+ 
+ 
+•	One way trip  
+              RelativeXpath: //*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[1]/div/div/label[1] 
+CSS Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._3--Dt3 > div > div > label._2Fn-Ln._3L7Pww 
+ 
+Locator: class="_2Fn-Ln" 
+                Tagname :”div”
+ 
+ 
+•	Search button  
+                                     RelativeXpath: //*[@id="container"]/div/div[1]/div[1]/div[2]/div[2]/form/div/div/input 
+ 
+CSS Selector: #container > div > div._1kfTjk > div._1rH5Jn > div._2Xfa2_ > div._1cmsER > form > div > div > input 
+ 
+Locator: class="_3704LK" 
+                           Tagname:svg
+ 
+•	From   
+                                   RelativeXpath: //*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[2]/form/div/div[1]/div[1]/div[1]/div[1]/input 
+ 
+CSS Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._2ffI1H > form > div > div._3REAgv > div:nth-child(1) > div.GTbXbG > div._3qBKP_._1Jqgld > input 
+ 
+Locator: class="_1w3ZZo _1YBGQV _2EjOJB lZd1T6 _2vegSu _2mFmU7" 
+ 
+•	To  
+                                   RelativeXpath: //*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[2]/form/div/div[1]/div[3]/div[1]/div[1]/input 
+CSS Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._2ffI1H > form > div > div._3REAgv > div:nth-child(3) > div.GTbXbG > div._3qBKP_._1Jqgld > input 
+ 
+Locator: class="_1w3ZZo _1YBGQV _2EjOJB lZd1T6 _2dqBfU _2mFmU7" 
+ 
+ 
+•	Depart On  
+                                     RelativeXpath: //*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[2]/form/div/div[2]/div[2]/div/input 
+CSS Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._2ffI1H > form > div > div._1SzMWX._1Bv2QP > div:nth-child(2) > div > input 
+ 
+Locator: class="_1w3ZZo zO-_Xz _2mFmU7" 
+ 
+ 
+•	Return On  
+                       RelativeXpath:  
+//*[@id="container"]/div/div[2]/div[1]/div/div[2]/div/div[2]/form/div/div[2]/div[3]/div[1]/input 
+ 
+CSS Selector: #container > div > div._2I_P4n._6t1WkM._3HqJxg > div:nth-child(1) > div > div._3XCEEm > div > div._2ffI1H > form > div > div._1SzMWX._1Bv2QP > div:nth-child(3) > div.zzPDhz._1Jqgld > input 
+ 
+Locator: 
+class="_1w3ZZo _2gKfhi _2mFmU7" 
+ 
+
